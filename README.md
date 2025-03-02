@@ -1,2 +1,6 @@
-# code
-first code
+#inlude<stdio.h>
+void main()
+{
+printf("Hello world");
+}
+
